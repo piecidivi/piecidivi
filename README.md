@@ -23,6 +23,6 @@ Contact me:
 <br/>
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piecidivi&show_icons=true&locale=en&layout=compact" alt="piecidivi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piecidivi&show_icons=true&locale=en&layout=compact" alt="piecidivi" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piecidivi&hide=stars,prs,issues,contribs&show_icons=true&locale=en" alt="piecidivi" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=piecidivi&hide=stars,prs,issues,contribs&show_icons=true&locale=en" alt="piecidivi" /></p>
