@@ -24,5 +24,4 @@ Contact me:
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piecidivi&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=piecidivi&hide_title=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Peter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=piecidivi&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Peteris's GitHub stats](https://github-readme-stats.vercel.app/api?username=piecidivi&hide_title=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
