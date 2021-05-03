@@ -1,4 +1,10 @@
-Hello, I am *Peteris Zarans*. I am an IT professional with significant experience in computer networks now focusing on software development, in particular web applications. I code in PHP, JavaScript, TypeScript, C++. I am currently learning Laravel. 🙂
+## Hello, 👋 !
 
-📫 [Gmail](peteris.zarans@gmail.com)<br/>
-📫 [LinkedIn](https://www.linkedin.com/in/peteriszarans)
+My name is Pēteris Zarāns. I am experienced IT professional from Riga, Latvia, now focusing on software development.<br/>
+While not a tool nor language is obstacle for me in reaching my goals, I mainly code in PHP and JavaScript.<br/>
+I am now learning Laravel and Vue.js.
+
+Contact me:
+
+- [](peteris.zarans@gmail.com)
+- [](https://www.linkedin.com/in/peteriszarans)
