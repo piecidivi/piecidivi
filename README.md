@@ -5,6 +5,5 @@ While not a tool nor language is obstacle for me in reaching my goals, I mainly 
 I am now learning Laravel and Vue.js.
 
 Contact me:
-
-- [](peteris.zarans@gmail.com)
-- [](https://www.linkedin.com/in/peteriszarans)
+- [peteris.zarans@gmail.com](peteris.zarans@gmail.com)
+- [https://www.linkedin.com/in/peteriszarans/](https://www.linkedin.com/in/peteriszarans/)
