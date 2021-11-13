@@ -5,7 +5,6 @@ While not a tool nor language is an obstacle for me in reaching my goals, I main
 
 
 Contact me:
-- [peteris.zarans@gmail.com](peteris.zarans@gmail.com)
 - [https://www.linkedin.com/in/peteriszarans/](https://www.linkedin.com/in/peteriszarans/)
 
 <br/>
