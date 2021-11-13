@@ -4,7 +4,6 @@ My name is Pēteris Zarāns. I am an experienced IT professional from Riga, Latv
 While not a tool nor language is an obstacle for me in reaching my goals, I mainly code in PHP and JavaScript.<br/>
 
 
-Contact me:
 - [https://www.linkedin.com/in/peteriszarans/](https://www.linkedin.com/in/peteriszarans/)
 
 <br/>
