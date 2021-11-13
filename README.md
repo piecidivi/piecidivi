@@ -2,7 +2,7 @@
 
 My name is Pēteris Zarāns. I am an experienced IT professional from Riga, Latvia, now focusing on software development.<br/>
 While not a tool nor language is an obstacle for me in reaching my goals, I mainly code in PHP and JavaScript.<br/>
-I am now learning Laravel and Vue.js.
+
 
 Contact me:
 - [peteris.zarans@gmail.com](peteris.zarans@gmail.com)
