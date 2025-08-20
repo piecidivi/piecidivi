@@ -12,3 +12,7 @@ Currently focused on building scalable backend solutions with PHP/Laravel, and g
 <a href="https://vuejs.org" target="_blank"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="Vue.js"></code></a>
 <a href="https://git-scm.com" target="_blank"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git"></code></a>
 <a href="https://www.docker.com" target="_blank"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="Docker"></code></a>
+
+---
+
+⚡ *Currently working on private projects to deepen my expertise and will publish selected code here soon.*
